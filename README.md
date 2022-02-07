@@ -17,7 +17,7 @@ Describe the resources you used. Did you learn a technique from a random website
 
 Sources: 
 
-All the sprites used in this game does not belong to me. I can not seem to find the exact source and give the right credit. Let me know if the sprite belongs to you so that I can rightfully give you credit for your work.
+All the sprites used in this game do not belong to me. I can not seem to find the exact source and give the right credit. Let me know if the sprite belongs to you so that I can rightfully give you credit for your work.
 
 https://gamedev.stackexchange.com/questions/126397/how-to-create-a-projectile-motion-of-a-cannonball-in-top-down-view
 https://blog.gemserk.com/2012/07/03/drawing-a-projectile-trajectory-like-angry-birds-using-libgdx/
