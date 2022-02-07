@@ -17,5 +17,5 @@ Describe the resources you used. Did you learn a technique from a random website
 
 Sources: 
 
-How to create a projectile motion of a cannonball in top down ...https://gamedev.stackexchange.com › questions › how-t...
-Drawing a projectile trajectory like Angry Birds using LibGDXhttps://blog.gemserk.com › 2012/07/03 › drawing-a-pr...
+https://gamedev.stackexchange.com/questions/126397/how-to-create-a-projectile-motion-of-a-cannonball-in-top-down-view
+https://blog.gemserk.com/2012/07/03/drawing-a-projectile-trajectory-like-angry-birds-using-libgdx/
